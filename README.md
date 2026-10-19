@@ -1,6 +1,10 @@
 # DropForge
 
-DropForge is a free, local-first macOS file conversion and workflow app for Apple silicon. It lives in the menu bar and provides a file-action wheel, batch processing, progress tracking, and safe output handling without uploads, accounts, subscriptions, analytics, or artificial file limits.
+DropForge is a free, local-first macOS file conversion and workflow app for Apple silicon. It lives in the menu bar and provides a file-action wheel, batch processing, progress tracking, and safe output handling without uploads, accounts, subscriptions, or analytics.
+
+**Website:** https://timowse.github.io/mac-apps/apps/dropforge/
+
+Developed by Timo Wiese with AI-assisted development tools. Product decisions, testing, and publication remain Timo's responsibility.
 
 ## Install
 
